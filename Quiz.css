@@ -1,0 +1,17 @@
+/* Stylesheet for Quizzing: A simple JS quiz app */
+ body {
+    background-color: grey;
+    color: black #aaa;
+}
+h1, h2 {
+    color: RED;
+}
+#button {
+    color: #FFFFFF;
+    border: 1px solid #fffF;
+    background-color: #8ec127;
+    width: 50px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
